@@ -1,7 +1,7 @@
 # Purple Team Home-Lab
 Repo for my home-lab, forensics, and server hardening lab containing process, results, scripts, etc.
 
-  * * * * * * * * * Goals for the project * * * * * * * * *
+**** Goals for the project ****
 ===================================================================================
   - Simulate a well-known attack from the CompTIA Security+ Exam objectives list
       - Brute-force, Leaked Credentials, Exfil
