@@ -21,11 +21,12 @@
 ---
 <h1 align="center">🧪 Repo for my home-lab, forensics, and server hardening lab 🧪 </h1>
 
-Contains:
-- Process documentation  
-- Results & analysis  
-- Custom scripts  
-
+<div align="center">
+  <p>• Process documentation</p>
+  <p>• Results & analysis</p>
+  <p>• Custom scripts</p>
+  <p>• Resources</p>
+</div>
 ---
 <h1 align="center">🎯 **Goals for the Project** 🎯 </h1>
 - Simulate a **well-known attack** from the *CompTIA Security+* objectives:
@@ -41,12 +42,4 @@ Contains:
 
 - Write and publish a complete **incident report**
 
----
 
-Let me know if you’d like:
-- Section dividers (with emojis or lines)
-- Collapsible details (`<details>` blocks)
-- Links to tools or markdown badges  
-- A live preview via [GitHub Pages](https://pages.github.com/) or screenshots  
-
-Want me to help you add tool links or your contact/social info too?
