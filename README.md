@@ -19,7 +19,7 @@
 
 ---
 
-### *🧪 Repo for my home-lab, forensics, and server hardening lab.*
+### *🧪 Repo for my home-lab, forensics, and server hardening lab 🧪 *
 This contains:
 - Process documentation  
 - Results & analysis  
@@ -27,7 +27,7 @@ This contains:
 
 ---
 
-## 🎯 **Goals for the Project**
+## 🎯 **Goals for the Project** 🎯
 
 - Simulate a **well-known attack** from the *CompTIA Security+* objectives:
   - Brute-force, leaked credentials, exfiltration
