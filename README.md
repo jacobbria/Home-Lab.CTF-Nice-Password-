@@ -21,7 +21,7 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣥⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣶⣿⣿
 </pre>
 </div>
-<h1 align="center">🧪 Pentest, Forensics, and Server-hardening Lab Repo 🧪 </h1>
+<h1 align="center">🧪 Pentest Lab Repo 🧪 </h1>
 
 <div align="center">
   <p>• Process documentation</p>
