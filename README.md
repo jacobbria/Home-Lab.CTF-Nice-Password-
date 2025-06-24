@@ -40,6 +40,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jacobbria" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" style="vertical-align:middle" />
-    &nbsp;&nbsp;Connect with me on <strong>LinkedIn</strong>
+    &nbsp;&nbsp; Say Hi on <strong>LinkedIn</strong>
   </a>
 </p>
