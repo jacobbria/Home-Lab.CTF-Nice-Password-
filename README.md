@@ -37,6 +37,11 @@
   <p>• Write and publish a complete incident report</p>
 </div> 
 
+<h1> Tools and Stack </h1>
+<div>
+   <img src="https://www.kali.org/docs/policy/trademark/kali-logo-tm.png" alt="LinkedIn" style="vertical-align:middle" />
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jacobbria" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" style="vertical-align:middle" />
