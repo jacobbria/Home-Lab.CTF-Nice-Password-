@@ -57,6 +57,16 @@
         Scripts used for brute-force login, scanning, and automation.
       </td>
     </tr>
+      <tr>
+      <td align="center">
+        <a href="https://github.com/jacobbria/Home-Lab.CTF-Nice-Password-/blob/main/treasure/passwordList">
+          <strong>Treasure</strong>
+        </a>
+      </td>
+      <td align="center">
+        Valuable data, datasets, or other files.
+      </td>
+    </tr>
   </tbody>
 </table>
 
