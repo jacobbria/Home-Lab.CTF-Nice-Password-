@@ -32,9 +32,7 @@
 <h1 align="center">🎯 **Goals for the Project** 🎯 </h1>
 <div align="center">
   <p>• Simulate a Brute-Force attack from the CompTIA Security+ objectives</p>
-  <p>• Identify and analyze the attack as a blue team defender</p>
-  <p>• Harden the server to prevent future attacks</p>
-  <p>• Write and publish a complete incident report</p>
+  <p>• Write and publish an incident report</p>
 </div> 
 
 <h1  align="center" >🔧 Tools and Stack 🔧</h1>
