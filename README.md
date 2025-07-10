@@ -21,8 +21,49 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣥⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣶⣿⣿
 </pre>
 </div>
-<h1 align="center">🧪 Pentest Lab Repo 🧪 </h1>
+<h1 align="center">📂 Project Directory 📂</h1>
 
+<table align="center" width="100%">
+  <thead>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/jacobbria/Home-Lab.CTF-Nice-Password-/blob/main/docs/results.md">
+          <strong>Summary & Results</strong>
+        </a>
+      </td>
+      <td align="center">
+        Overview of the attack steps, outcome, and key takeaways.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/jacobbria/Home-Lab.CTF-Nice-Password-/blob/main/docs/setup.md">
+          <strong>System Setup</strong>
+        </a>
+      </td>
+      <td align="center">
+        Environments, tools installed, and system configurations.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/jacobbria/Home-Lab.CTF-Nice-Password-/tree/main/scripts">
+          <strong>Custom Scripts</strong>
+        </a>
+      </td>
+      <td align="center">
+        Scripts used for brute-force login, scanning, and automation.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+<h1 align="center">🧪 Pentest Lab Repo 🧪 </h1>
 <div align="center">
   <p>• Process documentation</p>
   <p>• Results & analysis</p>
